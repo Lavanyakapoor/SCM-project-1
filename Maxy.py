@@ -1,4 +1,4 @@
-# Maxy project
+# Maxy project assistant accessible through voice
 import datetime
 import pyttsx3
 import smtplib  # for email send
